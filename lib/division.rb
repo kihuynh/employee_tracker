@@ -1,6 +1,5 @@
 #!/usr/bin/ruby
 
-class Hr
-
-end
-
+# class Division < ActiveRecord::Base
+#
+# end
