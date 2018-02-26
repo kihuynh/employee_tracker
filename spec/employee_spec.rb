@@ -1,7 +1,6 @@
-require('rspec')
-require('employee_tracker')
-require('pry')
-require('pg')
+require('spec_helper')
+
+
 
 describe('employee_tracker') do
   it("create new project") do
