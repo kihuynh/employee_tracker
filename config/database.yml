@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: office_data
+
+test:
+  adapter: postgresql
+  database: office_data_test
